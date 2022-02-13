@@ -1,0 +1,8 @@
+name: IPInfo
+author: Jupiter_79#9440
+version: 1.0
+main: at.jupiter.ipinfo.IPInfo
+
+commands:
+  ip:
+    description: Shows the IP of a player
